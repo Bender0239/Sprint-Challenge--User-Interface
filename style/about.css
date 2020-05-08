@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    border-radius: 5px;
+    color: black;
+}
+div{
+    margin: 0 auto;
+   background-color: lightgrey;
+   border-radius: 5px;
+}
+p{
+    padding: 20px;
+    width: 100%;
+    color: black;
+}
